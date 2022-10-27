@@ -1,0 +1,112 @@
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Hello_CodeFirst_MVC.dll.config
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Hello_CodeFirst_MVC.dll
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Hello_CodeFirst_MVC.pdb
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Antlr3.Runtime.dll
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\EntityFramework.dll
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\EntityFramework.SqlServer.dll
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.dll
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Security.dll
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Security.Google.dll
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Web.Infrastructure.dll
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Newtonsoft.Json.dll
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Owin.dll
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\System.Web.Helpers.dll
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\System.Web.Mvc.dll
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\System.Web.Optimization.dll
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\System.Web.Razor.dll
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\System.Web.WebPages.Deployment.dll
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\System.Web.WebPages.dll
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\System.Web.WebPages.Razor.dll
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\WebGrease.dll
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\EntityFramework.xml
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\EntityFramework.SqlServer.xml
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\System.Web.Helpers.xml
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\System.Web.Mvc.xml
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\System.Web.Optimization.xml
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\System.Web.Razor.xml
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\System.Web.WebPages.xml
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\System.Web.WebPages.Deployment.xml
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\System.Web.WebPages.Razor.xml
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Antlr3.Runtime.pdb
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Newtonsoft.Json.xml
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.xml
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Security.xml
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Security.Google.xml
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\obj\Debug\Hello_CodeFirst_MVC.csprojResolveAssemblyReference.cache
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\obj\Debug\Hello_CodeFirst_MVC.dll
+c:\users\win7\documents\visual studio 2013\Projects\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\obj\Debug\Hello_CodeFirst_MVC.pdb
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Hello_CodeFirst_MVC.dll.config
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Hello_CodeFirst_MVC.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Hello_CodeFirst_MVC.pdb
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Antlr3.Runtime.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\EntityFramework.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\EntityFramework.SqlServer.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Security.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Security.Facebook.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Security.Google.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Security.OAuth.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Security.Twitter.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Newtonsoft.Json.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Owin.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\System.Web.Helpers.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\System.Web.Mvc.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\System.Web.Optimization.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\System.Web.Razor.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\System.Web.WebPages.Deployment.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\System.Web.WebPages.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\System.Web.WebPages.Razor.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\WebGrease.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\EntityFramework.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\EntityFramework.SqlServer.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\System.Web.Helpers.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\System.Web.Mvc.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\System.Web.Optimization.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\System.Web.Razor.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\System.Web.WebPages.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\System.Web.WebPages.Deployment.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\System.Web.WebPages.Razor.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Antlr3.Runtime.pdb
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Newtonsoft.Json.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Security.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Security.Facebook.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Security.OAuth.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Security.Google.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Security.Twitter.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\obj\Debug\Hello_CodeFirst_MVC.csproj.AssemblyReference.cache
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\obj\Debug\Hello_CodeFirst_MVC.csproj.CoreCompileInputs.cache
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\obj\Debug\Hello_CodeFirst_MVC.csproj.CopyComplete
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\obj\Debug\Hello_CodeFirst_MVC.dll
+D:\MainAcademy\C# .NET\LabWorks_2\Module_5\ASP.NET\LabWork#5.4\(begin)Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\Hello_CodeFirst_MVC\obj\Debug\Hello_CodeFirst_MVC.pdb
